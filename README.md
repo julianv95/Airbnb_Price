@@ -4,7 +4,7 @@
 If you want to replicate this analysis you need to do the following:
 1. Clone this repository
 2. Go to Kaggle.com and download the airbnb-listings of [Berlin](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) <br>
- (The size of the required file is to large for github and therefore this is neccessery.
+ (The size of the required file is to large for github and therefore this is neccessery).
 3. Unpack the Data into the cloned reposioty on your local computer
 4. The directory containing the airbnb-listings HAS to be named berlin-airbnb-data
 5. Install the provided conda environments
