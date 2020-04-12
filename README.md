@@ -1,10 +1,10 @@
 # Airbnb_Price
 
 
-If you want to replicate this analysis you need to follow the following steps:
-
+If you want to replicate this analysis you need to do the following:
+[here](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data)
 1. Clone this repository
-2. Go to Kaggle.com and download the airbnb-listings of Berlin (The size of the rquired file is to large for github and therefore
+2. Go to Kaggle.com and download the airbnb-listings of Berlin (The size of the required file is to large for github and therefore
    this is neccessery.
 3. Unpack them into the cloned reposioty on your local computer
 4. The directory containing the airbnb-listings HAS to be named berlin-airbnb-data
